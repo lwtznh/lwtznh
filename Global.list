@@ -1,7 +1,11 @@
 
-# > Other
+# > 魔性
 DOMAIN-SUFFIX,moxing.best,PROXY
+
+# > 飞行
 DOMAIN-SUFFIX,flycloud.site,PROXY
+
+# > TikTok
 DOMAIN,api-h2.tiktokv.com,PROXY
 DOMAIN,api2-16-h2.musical.ly,PROXY
 DOMAIN,api2-19-h2.musical.ly,PROXY
