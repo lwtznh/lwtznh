@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,flycloud.site,PROXY
 DOMAIN,api-h2.tiktokv.com,PROXY
 DOMAIN,api2-16-h2.musical.ly,PROXY
 DOMAIN,api2-19-h2.musical.ly,PROXY
+# > 壁纸
+DOMAIN-SUFFIX,heyeased.weebly.com ,PROXY
